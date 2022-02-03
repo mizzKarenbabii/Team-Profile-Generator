@@ -1,0 +1,4 @@
+const Manager
+
+officeNumber
+getRole()
