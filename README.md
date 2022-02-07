@@ -10,5 +10,5 @@ This code will generate a webpage that displays you team's information that they
 - Inquirer package
 
 ## Walkthrough video 
-
+https://drive.google.com/file/d/1Q2KFwaOUF_1xd7ykzGtQiRhbf0SylL1I/view?usp=sharing
 
