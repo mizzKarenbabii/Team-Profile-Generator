@@ -9,4 +9,6 @@ This code will generate a webpage that displays you team's information that they
 - JEST package
 - Inquirer package
 
+## Walkthrough video 
+
 
